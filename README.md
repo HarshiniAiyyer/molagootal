@@ -24,6 +24,6 @@ functions.avg(3,2)
 functions.subtract(3,2)
 ```
 This package was made as a joke. 
-However if you still wish to reach out to me for further updates, feel free to contact me at - kerneldacore@gmail.com.
+However if you still wish to reach out to me for further updates, feel free to contact me at - harshinivitdocs@gmail.com.
 
 
