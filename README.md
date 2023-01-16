@@ -8,7 +8,6 @@ If you are still willing to waste your time, kindly test out this repo by instal
 
 ```
 pip install molaguttal
-
 ```
 
 Importing functions
