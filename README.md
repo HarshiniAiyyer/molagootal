@@ -7,9 +7,11 @@ This repository is an absolute abomination. So is its author. This repo was made
 If you are still willing to waste your time, kindly test out this repo by installing the package.
 
 ```
-pip install molaguttal
+!pip install molaguttal    //for Jupyter, Google Colab or Kaggle Notebook
 ```
-
+```
+pip install molaguttal  //for your CLI
+```
 Importing functions
 ```
 from molaguttal import functions
@@ -23,6 +25,8 @@ functions.sum(3,2)
 functions.avg(3,2)
 functions.subtract(3,2)
 ```
+This repo can be found at https://pypi.org/project/molaguttal/
+
 This package was made as a joke. 
 However if you still wish to reach out to me for further updates, feel free to contact me at - harshinivitdocs@gmail.com.
 
